@@ -2,6 +2,8 @@
 
 [![tests](https://github.com/Edward-Owusu/hipaa-audit-engine/actions/workflows/tests.yml/badge.svg)](https://github.com/Edward-Owusu/hipaa-audit-engine/actions/workflows/tests.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23219111.svg)](https://doi.org/10.5281/zenodo.23219111)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hipaa-audit-engine.streamlit.app)
 
 An open-source tool that helps **small healthcare providers** review who is accessing patient records. It reads electronic health record (EHR) access logs and flags the activity that most deserves a closer look, such as staff opening records of coworkers or family members, accounts used after someone left, bulk exports, and shared logins, and lays it out on a **timeline** for follow-up. Every flag maps to the **HIPAA Security Rule** and **NIST SP 800-53 Rev. 5**.
 
@@ -69,6 +71,7 @@ Open the HTML file in the `reports` folder for the timeline. Pre-generated repor
 pip install -r requirements.txt
 streamlit run app/streamlit_app.py
 ```
+Try the hosted version with sample data at https://hipaa-audit-engine.streamlit.app, or run it locally:
 
 **Never upload real patient data to a public demo.** Run the tool on your own computer or server to review real logs.
 
