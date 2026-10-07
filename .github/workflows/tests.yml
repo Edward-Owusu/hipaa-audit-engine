@@ -1,0 +1,23 @@
+name: tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.11", "3.12"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Run unit tests
+        run: python -m unittest discover -s tests -v
+      - name: Run the tool on the sample data
+        run: |
+          PYTHONPATH=src python -m hipaa_audit samples/lakeside_family_clinic_access_log.csv --workforce samples/lakeside_family_clinic_workforce.csv --patients samples/lakeside_family_clinic_patients.csv --out reports
+          PYTHONPATH=src python -m hipaa_audit samples/cedar_valley_health_access_log.csv --workforce samples/cedar_valley_health_workforce.csv --patients samples/cedar_valley_health_patients.csv --out reports --fail-on high

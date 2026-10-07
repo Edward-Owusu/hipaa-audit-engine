@@ -1,0 +1,12 @@
+{
+  "_comment": "Organization-defined parameters. Copy, adjust, and pass with --config.",
+  "clinical_roles": ["physician", "nurse", "therapist", "medical_assistant", "clinician"],
+  "operational_roles": ["front_desk", "billing", "scheduling", "health_information"],
+  "business_hours_roles": ["front_desk", "billing", "scheduling", "admin", "health_information"],
+  "business_hours": [7, 19],
+  "bulk_distinct_patients_per_hour": 30,
+  "bulk_exports_per_day": 10,
+  "failed_logins_threshold": 5,
+  "failed_logins_window_minutes": 15,
+  "generic_account_names": ["frontdesk", "nurse", "admin", "shared", "temp", "test", "user", "clinic", "reception"]
+}

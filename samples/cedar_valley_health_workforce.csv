@@ -1,0 +1,19 @@
+user,name,last_name,role,department,status,termination_date,household_id
+h.kim,Hector Kim,Kim,physician,Family Medicine,active,,H100
+i.lopez,Irene Lopez,Lopez,physician,Pediatrics,active,,H101
+j.grant,James Grant,Grant,physician,Urgent Care,active,,H102
+k.brooks,Kara Brooks,Brooks,nurse,Family Medicine,active,,H103
+l.shah,Luis Shah,Shah,nurse,Pediatrics,active,,H104
+m.oneil,Maya Oneil,Oneil,nurse,Urgent Care,active,,H105
+n.nguyen,Noah Nguyen,Nguyen,nurse,Urgent Care,active,,H106
+o.reed,Olivia Reed,Reed,medical_assistant,Family Medicine,active,,H107
+p.diaz,Paul Diaz,Diaz,medical_assistant,Pediatrics,active,,H108
+r.hall,Rita Hall,Hall,front_desk,Front Office,active,,H109
+s.ward,Sam Ward,Ward,front_desk,Front Office,active,,H110
+t.ellis,Tara Ellis,Ellis,billing,Business Office,active,,H111
+v.moore,Victor Moore,Moore,billing,Business Office,active,,H112
+a.fox,Ana Fox,Fox,scheduling,Front Office,active,,H113
+b.lane,Ben Lane,Lane,it,IT,active,,H114
+c.cruz,Carla Cruz,Cruz,nurse,Family Medicine,active,,H115
+d.park,David Park,Park,physician,Family Medicine,active,,H116
+e.hayes,Elena Hayes,Hayes,medical_assistant,Urgent Care,active,,H117

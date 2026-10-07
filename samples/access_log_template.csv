@@ -1,0 +1,2 @@
+timestamp,user,role,patient_id,action,break_glass
+2026-09-21 09:00,j.smith,nurse,P1000,view,false

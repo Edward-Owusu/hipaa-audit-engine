@@ -1,0 +1,161 @@
+patient_id,last_name,household_id,department,care_team,employee_user,high_profile
+P1000,Clark,PH2000,Family Medicine,a.patel;r.cruz,,false
+P1001,Mills,PH2001,Pediatrics,b.kim;e.brooks,,false
+P1002,Baker,PH2002,Urgent Care,f.shah;s.park,,false
+P1003,Irwin,PH2003,Family Medicine,h.nguyen;r.cruz,,false
+P1004,Baker,PH2004,Pediatrics,e.brooks;i.reed,,false
+P1005,Lopez,PH2005,Urgent Care,a.patel,c.lopez,false
+P1006,Baker,PH2006,Family Medicine,d.grant;h.nguyen,,false
+P1007,King,PH2007,Pediatrics,b.kim;e.brooks,,false
+P1008,Turner,PH2008,Urgent Care,f.shah;g.oneil,,false
+P1009,Mills,PH2009,Family Medicine,p.lane;r.cruz,,false
+P1010,Turner,PH2010,Pediatrics,e.brooks;i.reed,,false
+P1011,Diaz,H109,Urgent Care,f.shah;s.park,,false
+P1012,Turner,PH2012,Family Medicine,a.patel;h.nguyen,,false
+P1013,King,PH2013,Pediatrics,b.kim;i.reed,,false
+P1014,Clark,PH2014,Urgent Care,g.oneil;s.park,,false
+P1015,Long,PH2015,Family Medicine,a.patel;d.grant,,false
+P1016,King,PH2016,Pediatrics,b.kim;e.brooks,,false
+P1017,Green,PH2017,Urgent Care,f.shah;g.oneil,,false
+P1018,Baker,PH2018,Family Medicine,a.patel;r.cruz,,false
+P1019,Scott,PH2019,Pediatrics,b.kim;e.brooks,,false
+P1020,Underwood,PH2020,Urgent Care,c.lopez;s.park,,false
+P1021,Jones,PH2021,Family Medicine,d.grant;h.nguyen,,false
+P1022,Baker,PH2022,Pediatrics,b.kim;i.reed,,false
+P1023,King,PH2023,Urgent Care,c.lopez;f.shah,,false
+P1024,Mills,PH2024,Family Medicine,d.grant;r.cruz,,false
+P1025,Quinn,PH2025,Pediatrics,e.brooks;i.reed,,false
+P1026,Foster,PH2026,Urgent Care,f.shah;g.oneil,,false
+P1027,Clark,PH2027,Family Medicine,a.patel;h.nguyen,,false
+P1028,Nash,PH2028,Pediatrics,e.brooks;i.reed,,false
+P1029,Scott,PH2029,Urgent Care,f.shah;s.park,,false
+P1030,Irwin,PH2030,Family Medicine,a.patel;r.cruz,,false
+P1031,Green,PH2031,Pediatrics,e.brooks;i.reed,,false
+P1032,Adams,PH2032,Urgent Care,g.oneil;s.park,,false
+P1033,Adams,PH2033,Family Medicine,a.patel;h.nguyen,,false
+P1034,Scott,PH2034,Pediatrics,e.brooks;i.reed,,false
+P1035,Foster,PH2035,Urgent Care,c.lopez;f.shah,,false
+P1036,Nash,PH2036,Family Medicine,h.nguyen;p.lane,,false
+P1037,Evans,PH2037,Pediatrics,b.kim;i.reed,,false
+P1038,Baker,PH2038,Urgent Care,c.lopez;f.shah,,false
+P1039,Green,PH2039,Family Medicine,h.nguyen;r.cruz,,false
+P1040,Underwood,PH2040,Pediatrics,e.brooks;i.reed,,false
+P1041,Turner,PH2041,Urgent Care,f.shah;g.oneil,,false
+P1042,Clark,PH2042,Family Medicine,h.nguyen;p.lane,,false
+P1043,Foster,PH2043,Pediatrics,e.brooks;i.reed,,false
+P1044,Quinn,PH2044,Urgent Care,c.lopez;s.park,,false
+P1045,Quinn,PH2045,Family Medicine,h.nguyen;p.lane,,false
+P1046,Clark,PH2046,Pediatrics,b.kim;i.reed,,false
+P1047,Zane,PH2047,Urgent Care,g.oneil;s.park,,false
+P1048,Ross,PH2048,Family Medicine,a.patel;d.grant,,false
+P1049,Ross,PH2049,Pediatrics,e.brooks;i.reed,,false
+P1050,Ross,PH2050,Urgent Care,f.shah;s.park,,false
+P1051,Ross,PH2051,Family Medicine,d.grant;p.lane,,false
+P1052,Mills,PH2052,Pediatrics,b.kim;i.reed,,false
+P1053,Vance,PH2053,Urgent Care,c.lopez;s.park,,false
+P1054,Zane,PH2054,Family Medicine,h.nguyen;p.lane,,false
+P1055,Ross,PH2055,Pediatrics,e.brooks;i.reed,,false
+P1056,Adams,PH2056,Urgent Care,c.lopez;g.oneil,,false
+P1057,Young,PH2057,Family Medicine,a.patel;r.cruz,,false
+P1058,Price,PH2058,Pediatrics,b.kim;e.brooks,,false
+P1059,Irwin,PH2059,Urgent Care,c.lopez;s.park,,false
+P1060,Long,PH2060,Family Medicine,h.nguyen;r.cruz,,false
+P1061,Underwood,PH2061,Pediatrics,e.brooks;i.reed,,false
+P1062,Vance,PH2062,Urgent Care,g.oneil;s.park,,false
+P1063,Quinn,PH2063,Family Medicine,h.nguyen;p.lane,,false
+P1064,Vance,PH2064,Pediatrics,e.brooks;i.reed,,false
+P1065,Price,PH2065,Urgent Care,f.shah;s.park,,false
+P1066,Green,PH2066,Family Medicine,d.grant;r.cruz,,false
+P1067,Foster,PH2067,Pediatrics,e.brooks;i.reed,,false
+P1068,Underwood,PH2068,Urgent Care,c.lopez;f.shah,,false
+P1069,Foster,PH2069,Family Medicine,a.patel;d.grant,,false
+P1070,Adams,PH2070,Pediatrics,b.kim;e.brooks,,false
+P1071,Ross,PH2071,Urgent Care,f.shah;s.park,,false
+P1072,Adams,PH2072,Family Medicine,h.nguyen;r.cruz,,false
+P1073,King,PH2073,Pediatrics,b.kim;i.reed,,false
+P1074,Jones,PH2074,Urgent Care,c.lopez;s.park,,false
+P1075,Zane,PH2075,Family Medicine,d.grant;h.nguyen,,false
+P1076,White,PH2076,Pediatrics,b.kim;i.reed,,false
+P1077,Scott,PH2077,Family Medicine,c.lopez;f.shah,,true
+P1078,Underwood,PH2078,Family Medicine,h.nguyen;p.lane,,false
+P1079,Green,PH2079,Pediatrics,e.brooks;i.reed,,false
+P1080,Scott,PH2080,Urgent Care,c.lopez;g.oneil,,false
+P1081,Evans,PH2081,Family Medicine,d.grant;r.cruz,,false
+P1082,Irwin,PH2082,Pediatrics,b.kim;e.brooks,,false
+P1083,Evans,PH2083,Urgent Care,c.lopez;g.oneil,,false
+P1084,Clark,PH2084,Family Medicine,a.patel;d.grant,,false
+P1085,Underwood,PH2085,Pediatrics,b.kim;i.reed,,false
+P1086,Price,PH2086,Urgent Care,c.lopez;s.park,,false
+P1087,Young,PH2087,Family Medicine,a.patel;d.grant,,false
+P1088,Scott,PH2088,Pediatrics,b.kim;e.brooks,,false
+P1089,Owens,PH2089,Urgent Care,c.lopez;g.oneil,,false
+P1090,Clark,PH2090,Family Medicine,h.nguyen;r.cruz,,false
+P1091,Owens,PH2091,Pediatrics,b.kim;e.brooks,,false
+P1092,Evans,PH2092,Urgent Care,f.shah;g.oneil,,false
+P1093,Foster,PH2093,Family Medicine,p.lane;r.cruz,,false
+P1094,Zane,PH2094,Pediatrics,b.kim;i.reed,,false
+P1095,Green,PH2095,Urgent Care,g.oneil;s.park,,false
+P1096,Ross,PH2096,Family Medicine,a.patel;p.lane,,false
+P1097,Owens,PH2097,Pediatrics,b.kim;i.reed,,false
+P1098,Clark,PH2098,Urgent Care,c.lopez;g.oneil,,false
+P1099,Price,PH2099,Family Medicine,p.lane;r.cruz,,false
+P1100,Nash,PH2100,Pediatrics,b.kim;e.brooks,,false
+P1101,Ross,PH2101,Urgent Care,c.lopez;f.shah,,false
+P1102,Clark,PH2102,Family Medicine,d.grant;h.nguyen,,false
+P1103,Baker,PH2103,Pediatrics,b.kim;i.reed,,false
+P1104,Owens,PH2104,Urgent Care,c.lopez;g.oneil,,false
+P1105,Young,PH2105,Family Medicine,d.grant;r.cruz,,false
+P1106,Jones,PH2106,Pediatrics,b.kim;i.reed,,false
+P1107,Owens,PH2107,Urgent Care,f.shah;s.park,,false
+P1108,Jones,PH2108,Family Medicine,d.grant;p.lane,,false
+P1109,Clark,PH2109,Pediatrics,e.brooks;i.reed,,false
+P1110,Adams,PH2110,Urgent Care,f.shah;s.park,,false
+P1111,Baker,PH2111,Family Medicine,a.patel;r.cruz,,false
+P1112,Evans,PH2112,Pediatrics,b.kim;e.brooks,,false
+P1113,Green,PH2113,Urgent Care,c.lopez;g.oneil,,false
+P1114,Ross,PH2114,Family Medicine,a.patel;r.cruz,,false
+P1115,Price,PH2115,Pediatrics,e.brooks;i.reed,,false
+P1116,Adams,PH2116,Urgent Care,c.lopez;g.oneil,,false
+P1117,Zane,PH2117,Family Medicine,d.grant;r.cruz,,false
+P1118,Ross,PH2118,Pediatrics,b.kim;e.brooks,,false
+P1119,Evans,PH2119,Urgent Care,f.shah;g.oneil,,false
+P1120,Ross,PH2120,Family Medicine,a.patel;d.grant,,false
+P1121,Irwin,PH2121,Pediatrics,b.kim;i.reed,,false
+P1122,Nash,PH2122,Urgent Care,f.shah;s.park,,false
+P1123,Clark,PH2123,Family Medicine,d.grant;r.cruz,,false
+P1124,Owens,PH2124,Pediatrics,b.kim;e.brooks,,false
+P1125,White,PH2125,Urgent Care,g.oneil;s.park,,false
+P1126,Young,PH2126,Family Medicine,a.patel;d.grant,,false
+P1127,Price,PH2127,Pediatrics,b.kim;i.reed,,false
+P1128,Price,PH2128,Urgent Care,g.oneil;s.park,,false
+P1129,Scott,PH2129,Family Medicine,p.lane;r.cruz,,false
+P1130,Baker,PH2130,Pediatrics,b.kim;i.reed,,false
+P1131,Green,PH2131,Urgent Care,f.shah;s.park,,false
+P1132,Quinn,PH2132,Family Medicine,p.lane;r.cruz,,false
+P1133,Irwin,PH2133,Pediatrics,b.kim;i.reed,,false
+P1134,Clark,PH2134,Urgent Care,f.shah;g.oneil,,false
+P1135,Nash,PH2135,Family Medicine,a.patel;r.cruz,,false
+P1136,King,PH2136,Pediatrics,e.brooks;i.reed,,false
+P1137,White,PH2137,Urgent Care,g.oneil;s.park,,false
+P1138,Foster,PH2138,Family Medicine,a.patel;h.nguyen,,false
+P1139,Baker,PH2139,Pediatrics,b.kim;i.reed,,false
+P1140,Ross,PH2140,Urgent Care,c.lopez;f.shah,,false
+P1141,Clark,PH2141,Family Medicine,d.grant;p.lane,,false
+P1142,Foster,PH2142,Pediatrics,e.brooks;i.reed,,false
+P1143,Price,PH2143,Urgent Care,f.shah;s.park,,false
+P1144,Vance,PH2144,Family Medicine,d.grant;p.lane,,false
+P1145,Quinn,PH2145,Pediatrics,b.kim;e.brooks,,false
+P1146,Clark,PH2146,Urgent Care,f.shah;s.park,,false
+P1147,Zane,PH2147,Family Medicine,d.grant;p.lane,,false
+P1148,Jones,PH2148,Pediatrics,b.kim;e.brooks,,false
+P1149,Zane,PH2149,Urgent Care,g.oneil;s.park,,false
+P1150,Quinn,PH2150,Family Medicine,a.patel;p.lane,,false
+P1151,Quinn,PH2151,Pediatrics,b.kim;i.reed,,false
+P1152,Clark,PH2152,Urgent Care,f.shah;s.park,,false
+P1153,Vance,PH2153,Family Medicine,a.patel;h.nguyen,,false
+P1154,Underwood,PH2154,Pediatrics,b.kim;e.brooks,,false
+P1155,Baker,PH2155,Urgent Care,g.oneil;s.park,,false
+P1156,Young,PH2156,Family Medicine,a.patel;d.grant,,false
+P1157,King,PH2157,Pediatrics,e.brooks;i.reed,,false
+P1158,Price,PH2158,Urgent Care,c.lopez;s.park,,false
+P1159,Quinn,PH2159,Family Medicine,h.nguyen;r.cruz,,false

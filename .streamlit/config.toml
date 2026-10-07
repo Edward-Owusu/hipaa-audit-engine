@@ -1,0 +1,8 @@
+# Theme for this dashboard: violet on soft lavender, distinct from the other tools in the series.
+[theme]
+base = "light"
+primaryColor = "#6D28D9"
+backgroundColor = "#FAF8FF"
+secondaryBackgroundColor = "#EDE7FB"
+textColor = "#1E1530"
+font = "sans serif"

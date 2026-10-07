@@ -1,0 +1,2 @@
+patient_id,last_name,household_id,department,care_team,employee_user,high_profile
+P1000,Doe,PH001,Family Medicine,j.smith,,false

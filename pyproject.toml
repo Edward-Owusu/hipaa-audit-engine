@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hipaa-audit"
+version = "0.1.0"
+description = "EHR access log review for small healthcare providers, mapped to the HIPAA Security Rule"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Edward Owusu"}]
+keywords = ["hipaa", "healthcare", "audit logs", "ehr", "privacy", "security rule", "nist", "small practice"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Topic :: Security",
+  "Intended Audience :: Information Technology",
+]
+dependencies = []
+
+[project.optional-dependencies]
+dashboard = ["streamlit>=1.37", "pandas>=2.0"]
+
+[project.scripts]
+hipaa-audit = "hipaa_audit.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+hipaa_audit = ["data/*.json"]
