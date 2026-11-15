@@ -2,5 +2,5 @@
 
 from .engine import load_files, parse_log, parse_patients, parse_users, review
 
-__version__ = "0.1.0"
+__version__ = "0.2.0"
 __all__ = ["load_files", "parse_log", "parse_patients", "parse_users", "review", "__version__"]
