@@ -4,9 +4,9 @@ title: "hipaa_audit: EHR Access Log Review for Small Healthcare Providers, Mappe
 authors:
   - family-names: Owusu
     given-names: Edward
-version: 0.1.0
+version: 0.2.0
 doi: 10.5281/zenodo.23219111
-date-released: 2026-10-07
+date-released: 2026-11-15
 license: MIT
 repository-code: "https://github.com/Edward-Owusu/hipaa-audit-engine"
 keywords:
